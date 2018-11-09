@@ -29,8 +29,9 @@ This project was created by Lupe Barriga, for Udacity's Front-End Nanodegre. Thi
     └── index.js # You should not need to modify this file. It is used for DOM rendering only.
 ```
 ## Resources
-* I used the below resources for guidance on this project:
-    Ryan Waite tutorial videos:
+* I used the below resources for guidance on this project
+
+    *Ryan Waite tutorial videos:
      https://www.youtube.com/watch?v=N8bU1oWlLwY&feature=youtu.be
      https://www.youtube.com/watch?v=acJHkd6K5kI&=&feature=youtu.be
  * Mentorship from FreeGeek, Portland, OR.
