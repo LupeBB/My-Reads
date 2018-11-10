@@ -34,7 +34,7 @@ class SearchScreen extends React.Component {
         return this.setState({ results: [] });
       } else {
         response.forEach(b => {
-          let f = this.state.books.filter(B => B.id === b.Id);
+          let f = this.state.books.filter(B => B.id === b.id);
           if (f[0]) {
             b.shelf = f[0].shelf;
           }
